@@ -4,7 +4,7 @@ echo "Come up with  a number from 1 to 20!"
 sleep 2
 
 left_x=0
-right_x=20
+right_x=21
 Y=1
 
 
